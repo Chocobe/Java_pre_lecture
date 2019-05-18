@@ -1,4 +1,4 @@
-package ex3;
+package ex003;
 
 public class LogicalOperator {
 	public static void main(String[] args) {

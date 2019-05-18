@@ -1,4 +1,4 @@
-package ex5;
+package ex005;
 
 public class BitOperator {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex4;
+package ex004;
 
 public class TernaryOperator {
 	public static void main(String[] args) {

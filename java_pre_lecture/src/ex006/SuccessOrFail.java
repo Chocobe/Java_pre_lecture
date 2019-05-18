@@ -1,4 +1,4 @@
-package ex6;
+package ex006;
 
 import java.util.Scanner;
 

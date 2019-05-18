@@ -1,6 +1,6 @@
 // JAVA 선행수업 2번째 시간
 
-package ex1;
+package ex001;
 
 import java.util.Scanner;
 

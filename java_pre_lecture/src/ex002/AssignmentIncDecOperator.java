@@ -1,4 +1,4 @@
-package ex2;
+package ex002;
 
 public class AssignmentIncDecOperator {
 	public static void main(String[] args) {
