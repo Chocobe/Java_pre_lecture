@@ -1,4 +1,4 @@
-package ex19_array_access;
+package ex20_array_length;
 
 import java.util.Scanner;
 
